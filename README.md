@@ -119,5 +119,3 @@ MIT - Usage libre perso/commercial
 ***
 
 **Projet certifié -  PowerShell natif -  Windows 11 -  EBU R128** 🚀🎸
-
-**Sauvegarde** : `notepad README.md` → Copie-colle tout → **Ctrl+S** ! 🎉
