@@ -1,0 +1,20 @@
+# Binaires vidéo (gros fichiers)
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.m4v
+normalise.mp4
+test_audio.mp4
+
+# Logs
+*.log
+scan.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
