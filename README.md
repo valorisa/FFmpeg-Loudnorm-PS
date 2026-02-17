@@ -140,5 +140,3 @@ MIT - Usage libre perso/commercial
 ---
 
 **🏆 Projet certifié EBU R128 • PowerShell natif • Windows 11 • FFmpeg 8.0.1** 🚀🎸🥾
-```
-
