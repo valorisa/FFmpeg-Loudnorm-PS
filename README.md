@@ -4,8 +4,6 @@
 
 Script 2-pass FFmpeg `loudnorm` → **-23 LUFS** (TV) ou **-16 LUFS** (YouTube).
 
-[
-
 ## 🎛️ Fonctionnalités
 
 - ✅ **EBU R128** certifiée (-23 LUFS)
@@ -119,3 +117,4 @@ MIT - Usage libre perso/commercial
 ***
 
 **Projet certifié -  PowerShell natif -  Windows 11 -  EBU R128** 🚀🎸
+
